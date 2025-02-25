@@ -1,6 +1,8 @@
 # Kalkulator ONP
 
 > Prosta aplikacja w konsoli obliczająca wg. formatu ONP (Odwrócona Notacja Polska).
+>
+> Projekt stworzony na potrzeby przedmiotu Algorytmy i Struktury Danych.
 
 ## ⚙️ Użyte technologie
 
